@@ -1,8 +1,6 @@
 poolspy-twitter
 =================
 
-A Chrome Extension that shows your Twitter feed without profile pics or usernames.
-
 ![poolspy](https://puuuuuuthtml.s3.amazonaws.com/poolspy_twitter.png)
 
 Install
