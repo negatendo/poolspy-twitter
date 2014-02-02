@@ -56,19 +56,6 @@ body, label, input, textarea, select, button {
   margin: 14px 17px 0 0 !important;
 }
 
-.avatar {
-  border-radius: 50px !important;
-}
-
-.stream-item-header .avatar {
-  margin-left: -66px !important;
-}
-
-
-.stream-item .content, .permalink .content, .permalink-tweet .content {
-  margin-left:  66px !important
-}
-
 /* Profile */
 .profile-card.profile-header {
   float: none !important;
@@ -77,14 +64,6 @@ body, label, input, textarea, select, button {
 
 .profile-header-inner-overlay {
   width: 100% !important;
-}
-
-.recent-tweets .tweet .avatar {
-  margin-left:-49px !important;
-}
-
-.recent-tweets .tweet .content {
-  margin-left: 50px !important;
 }
 
 body .wrapper-profile .profile-card.profile-header .profile-header-inner {
@@ -99,4 +78,24 @@ body .wrapper-profile .profile-card.profile-header .profile-header-inner {
 
 .stream .tweet:hover .tweet-actions {
   opacity: 1 !important;
+}
+
+/* pool spy twitter */
+
+.conversation-module {
+}
+
+.stream-item , .permalink-tweet {
+}
+
+.avatar {
+  display: none;
+}
+
+.account-group {
+  display: none;
+}
+
+.js-retweet-text {
+  display: none;
 }

@@ -1,17 +1,19 @@
-twitter-extension
+poolspy-twitter
 =================
 
-A WIP Chrome Extension that streamlines Twitter's design.
+A Chrome Extension that shows your Twitter feed without profile pics or usernames.
+
+![poolspy](https://puuuuuuthtml.s3.amazonaws.com/poolspy_twitter.png)
 
 Install
 -------------
 
-* Download the zip of files
-* Go to the Extensions page (chrome://extensions), and make sure the page is in Developer mode.
-* Click Load unpacked extension… to pop up a file-selection dialog.
-* Navigate to the directory where you unzipped the files and select it.
+* Download and extract ![poolspy-twitter.zip][https://puuuuuuthtml.s3.amazonaws.com/poolspy-twitter.zip] or clone this repo
+* Navigate to the Extensions page (chrome://extensions), and make sure Developer Mode is checked.
+* Click Load unpacked extension… to pop up a file-selection dialog
+* Navigate to the directory where you unzipped the files and select it
 
 Example
 -------------
 
-![example](http://i.imgur.com/dggvtkw.png)
+![example](https://puuuuuuthtml.s3.amazonaws.com/poolspy_twitter_example.jpg)
