@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Streamline",
+  "name": "pool spy twitter",
   "version": "1.0",
-  "description": "A streamlined styling for Twitter.",
+  "description": "Twitter without pics or usernames.",
 
   "icons": {
     "48": "img/twitter-48.png",
