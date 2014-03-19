@@ -99,3 +99,7 @@ body .wrapper-profile .profile-card.profile-header .profile-header-inner {
 .js-retweet-text {
   display: none;
 }
+
+.inline-reply-tweetbox {
+  display: none;
+}
